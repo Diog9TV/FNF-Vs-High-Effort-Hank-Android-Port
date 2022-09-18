@@ -1,0 +1,48 @@
+{
+	"storyName": "Nevada's Most Wanted",
+	"hideFreeplay": false,
+	"weekBackground": "he-hank",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"he-hank",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Murderface",
+			"he-hank",
+			[
+				160,
+				0,
+				56
+			]
+		],
+		[
+			"Mercenary",
+			"he-hank",
+			[
+				160,
+				0,
+				56
+			]
+		],
+		[
+			"Assassination",
+			"he-hank",
+			[
+				160,
+				0,
+				56
+			]
+		]
+	],
+	"weekName": "weekHE-Hank"
+}
