@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_characters.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hank Poster0000" x="4194" y="1415" width="745" height="696" frameX="0" frameY="-27" frameWidth="745" frameHeight="749"/>
+	<SubTexture name="Hank Poster0001" x="4194" y="1415" width="745" height="696" frameX="0" frameY="-27" frameWidth="745" frameHeight="749"/>
+	<SubTexture name="Hank Poster0002" x="4939" y="1415" width="745" height="749"/>
+	<SubTexture name="Hank Poster0003" x="4939" y="1415" width="745" height="749"/>
+	<SubTexture name="Hank Poster0004" x="5684" y="1415" width="745" height="737" frameX="0" frameY="-6" frameWidth="745" frameHeight="749"/>
+	<SubTexture name="Hank Poster0005" x="6429" y="1415" width="745" height="726" frameX="0" frameY="-11" frameWidth="745" frameHeight="749"/>
+	<SubTexture name="Hank Poster0006" x="6429" y="1415" width="745" height="726" frameX="0" frameY="-11" frameWidth="745" frameHeight="749"/>
+	<SubTexture name="Hank Poster0007" x="6429" y="1415" width="745" height="726" frameX="0" frameY="-11" frameWidth="745" frameHeight="749"/>
+	<SubTexture name="Hank Poster0008" x="6429" y="1415" width="745" height="726" frameX="0" frameY="-11" frameWidth="745" frameHeight="749"/>
+	<SubTexture name="Hank Poster0009" x="6429" y="1415" width="745" height="726" frameX="0" frameY="-11" frameWidth="745" frameHeight="749"/>
+	<SubTexture name="Hank Poster0010" x="6429" y="1415" width="745" height="726" frameX="0" frameY="-11" frameWidth="745" frameHeight="749"/>
+	<SubTexture name="Hank Poster0011" x="6429" y="1415" width="745" height="726" frameX="0" frameY="-11" frameWidth="745" frameHeight="749"/>
+	<SubTexture name="Hank Poster0012" x="6429" y="1415" width="745" height="726" frameX="0" frameY="-11" frameWidth="745" frameHeight="749"/>
+	<SubTexture name="Hank Poster0013" x="6429" y="1415" width="745" height="726" frameX="0" frameY="-11" frameWidth="745" frameHeight="749"/>
+</TextureAtlas>
